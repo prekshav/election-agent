@@ -1,4 +1,5 @@
-Election Education AI Agent
+**Election Education AI Agent**
+
 A Prompt War Submission | Powered by Antigravity & Google Cloud
 The Election Education Agent is an autonomous AI-native application designed to guide voters through the complexities of the election process. Built using the Antigravity IDE, this agent doesn't just provide static links; it reasons through user queries to deliver personalized, state-specific voting knowledge.
 
@@ -28,7 +29,7 @@ If you have Antigravity installed, you can simply clone and start the "Mission."
 Clone the repository:
 
 Bash
-git clone https://github.com/YOUR_USERNAME/election-education-process.git
+git clone https://github.com/prekshav/election-education-process.git
 cd election-education-process
 Setup Credentials:
 Ensure your Google Cloud SDK is authenticated:
