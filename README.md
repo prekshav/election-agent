@@ -29,7 +29,7 @@ If you have Antigravity installed, you can simply clone and start the "Mission."
 Clone the repository:
 
 Bash
-git clone https://github.com/prekshav/election-education-process.git
+git clone  [(https://github.com/prekshav/election-agent.git)
 cd election-education-process
 Setup Credentials:
 Ensure your Google Cloud SDK is authenticated:
