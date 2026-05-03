@@ -1,7 +1,1 @@
-Building using Dockerfile and deploying container to Cloud Run service [election-education-app] in project [starry-summer-495117-e3] region [us-central1]
-Building and deploying...
-Validating configuration.....................done
-Uploading sources............................................................................................................................................................................................................done
-Building Container............................................................................................................................................................................................................................................................................................failed
-Deployment failed
-ERROR: (gcloud.run.deploy) Build failed; check build logs for details
+
