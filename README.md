@@ -59,6 +59,8 @@ gcloud run deploy election-education-app \
   --region us-central1 \
   --allow-unauthenticated
 
+https://election-education-app-101619722584.us-central1.run.app
+
   
 🏆 Competition Context
 Task: Election Education Process
