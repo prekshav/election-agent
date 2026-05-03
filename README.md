@@ -29,26 +29,37 @@ If you have Antigravity installed, you can simply clone and start the "Mission."
 Clone the repository:
 
 Bash
+
 git clone  [(https://github.com/prekshav/election-agent.git)
+
 cd election-education-process
+
 Setup Credentials:
 Ensure your Google Cloud SDK is authenticated:
 
 Bash
+
 gcloud auth application-default login
+
 Run the Application:
 
 Bash
+
 # In the Antigravity Terminal
+
 streamlit run app.py
+
 ☁️ Cloud Run Deployment
 This project is configured for one-command deployment to Google Cloud:
 
 Bash
+
 gcloud run deploy election-education-app \
   --source . \
   --region us-central1 \
   --allow-unauthenticated
+
+  
 🏆 Competition Context
 Task: Election Education Process
 
